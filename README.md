@@ -1,4 +1,4 @@
-# es6-javascript
+# es6-typescript
 A collection of commands and ES6 focused snippets for optimizing modern Javascript development productivity. It aims to be compliant with [AirBnB's mostly reasonable approach to Javascript](https://github.com/airbnb/javascript).
 
 *Note: this is a fork of [turbo-javascript](extrabacon/atom-turbo-javascript) that uses arrow functions by default and adds a few more snippets for chai and classes for convenience.*
@@ -9,7 +9,7 @@ A collection of commands and ES6 focused snippets for optimizing modern Javascri
 
 - Uses single quotes to comply with AirBnB guidelines
 
-If you need double quotes please downgrade `apm install es6-javascript@0.7.0`
+If you need double quotes please downgrade `apm install es6-typescript@0.7.0`
 
 ## Commands
 

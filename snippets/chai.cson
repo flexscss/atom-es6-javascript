@@ -1,4 +1,4 @@
-".source.js":
+".source.ts":
   "expect equal":
     prefix: "exe"
     body: "expect(${1:actual}).to.equal(${2:expected});"

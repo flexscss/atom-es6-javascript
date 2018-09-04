@@ -1,4 +1,4 @@
-".source.js":
+".source.ts":
   "event handler":
     prefix: "on"
     body: """

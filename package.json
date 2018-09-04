@@ -1,17 +1,17 @@
 {
-  "name": "es6-javascript",
-  "main": "./lib/es6-javascript",
+  "name": "es6-typescript",
+  "main": "./lib/es6-typescript",
   "version": "1.0.0",
   "description": "A collection of commands and ES6 focused snippets for optimizing modern Javascript development productivity.",
   "activationCommands": {
     "atom-text-editor": [
-      "es6-javascript:end-line",
-      "es6-javascript:end-line-comma",
-      "es6-javascript:end-new-line",
-      "es6-javascript:wrap-block"
+      "es6-typescript:end-line",
+      "es6-typescript:end-line-comma",
+      "es6-typescript:end-new-line",
+      "es6-typescript:wrap-block"
     ]
   },
-  "repository": "https://github.com/hharnisc/atom-es6-javascript",
+  "repository": "https://github.com/hharnisc/atom-es6-typescript",
   "license": "MIT",
   "private": true,
   "keywords": [
